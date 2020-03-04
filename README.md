@@ -21,4 +21,4 @@ You can follow the images above to login( on the left) and add review (on the ri
 
 ## Author
 
-* **David Pinilla** - *Self-taught Full Stack developer* - [Personal Website](http://davidpinilla.com)
+* **Neeraj Pratap Singh** - *Self-taught Full Stack developer* - [Personal Website](https://neerajpsingh.github.io/simplefolio1/)
